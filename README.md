@@ -1,3 +1,5 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+
+# Name: Ningyu Zhu
+
+# PID: A59018247
